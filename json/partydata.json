@@ -1,0 +1,51 @@
+[
+	{
+		"id":1,
+		"ownerId":1,
+		"managerId":2,
+		"location":"Tallinn",
+		"date":"2016-01-30T00:00:00",
+		"invitedIds": [
+			2,
+			3,
+			4
+		],
+		"guestsIds": [
+			2,
+			3
+		]
+	},
+	{
+		"id":2,
+		"ownerId":2,
+		"managerId":1,
+		"location":"London",
+		"date":"2015-06-11T00:00:00",
+		"invitedIds": [
+			1,
+			3,
+			4
+		],
+		"guestsIds": [
+			1,
+			3,
+			4
+		]
+	},
+	{
+		"id":3,
+		"ownerId":3,
+		"managerId":2,
+		"location":"Maardu",
+		"date":"2016-04-30T00:00:00",
+		"invitedIds": [
+			1,
+			2,
+			4
+		],
+		"guestsIds": [
+			1,
+			2
+		]
+	}
+]

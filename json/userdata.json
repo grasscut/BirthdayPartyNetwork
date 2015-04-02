@@ -1,0 +1,198 @@
+[
+	{
+		"id": 1,
+		"username": "olga152",
+		"firstName": "Olga",
+		"lastName": "Orlova",
+		"birthday": "1990-01-29T00:00:00",
+		"wishlist": [
+			{
+			"giftId":1,
+			"giftName":"Coffee mug",
+			"giftLink": "http://www.ebay.com/coffee_mug",
+			"giftPrice": 10.00
+			},
+			{
+			"giftId":2,
+			"giftName":"Umbrella",
+			"giftLink": "http://ww.ebay.com/umbrella",
+			"giftPrice": 20.00
+			},
+			{
+			"giftId":3,
+			"giftName":"Laptop",
+			"giftLink": "http://www.ebay.com/laptop",
+			"giftPrice": 510.00
+			},
+			{
+			"giftId":4,
+			"giftName":"Chair",
+			"giftLink": "http://ww.ebay.com/chair",
+			"giftPrice": 38.00
+			},
+			{
+			"giftId":5,
+			"giftName":"Cake",
+			"giftLink": "http://www.ebay.com/cake",
+			"giftPrice": 33.00
+			},
+			{
+			"giftId":6,
+			"giftName":"Suitcase",
+			"giftLink": "http://ww.ebay.com/suitcase",
+			"giftPrice": 80.00
+			},
+			{
+			"giftId":7,
+			"giftName":"Toy car",
+			"giftLink": "http://ww.ebay.com/toy_car",
+			"giftPrice": 12.00
+			},
+			{
+			"giftId":8,
+			"giftName":"Lamp",
+			"giftLink": "http://www.ebay.com/lamp",
+			"giftPrice": 25.00
+			},
+			{
+			"giftId":9,
+			"giftName":"Lemon tree",
+			"giftLink": "http://ww.ebay.com/lemon_tree",
+			"giftPrice": 30.00
+			},
+			{
+			"giftId":10,
+			"giftName":"Fridge magnet",
+			"giftLink": "http://www.ebay.com/fridge_magnet",
+			"giftPrice": 5.50
+			},
+			{
+			"giftId":11,
+			"giftName":"Headphones",
+			"giftLink": "http://ww.ebay.com/headphones",
+			"giftPrice": 21.50
+			},
+			{
+			"giftId":12,
+			"giftName":"Mirror",
+			"giftLink": "http://www.ebay.com/mirror",
+			"giftPrice": 15.50
+			}
+		],
+		"friends": [
+			2,
+			3,
+			4
+		]
+	},
+	{
+		"id": 2,
+		"username": "nastja152",
+		"firstName": "Anastassia",
+		"lastName": "Dudits",
+		"birthday": "1993-06-11T00:00:00",
+		"wishlist": [
+			{
+			"giftId":1,
+			"giftName":"Coffee mug",
+			"giftLink": "http://www.ebay.com/coffee_mug",
+			"giftPrice": 10.00
+			},
+			{
+			"giftId":2,
+			"giftName":"Umbrella",
+			"giftLink": "http://ww.ebay.com/umbrella",
+			"giftPrice": 20.00
+			},
+			{
+			"giftId":3,
+			"giftName":"Laptop",
+			"giftLink": "http://www.ebay.com/laptop",
+			"giftPrice": 510.00
+			},
+			{
+			"giftId":4,
+			"giftName":"Chair",
+			"giftLink": "http://ww.ebay.com/chair",
+			"giftPrice": 38.00
+			},
+			{
+			"giftId":5,
+			"giftName":"Cake",
+			"giftLink": "http://www.ebay.com/cake",
+			"giftPrice": 33.00
+			},
+			{
+			"giftId":6,
+			"giftName":"Suitcase",
+			"giftLink": "http://ww.ebay.com/suitcase",
+			"giftPrice": 80.00
+			},
+			{
+			"giftId":7,
+			"giftName":"Toy car",
+			"giftLink": "http://ww.ebay.com/toy_car",
+			"giftPrice": 12.00
+			},
+			{
+			"giftId":8,
+			"giftName":"Lamp",
+			"giftLink": "http://www.ebay.com/lamp",
+			"giftPrice": 25.00
+			},
+			{
+			"giftId":9,
+			"giftName":"Lemon tree",
+			"giftLink": "http://ww.ebay.com/lemon_tree",
+			"giftPrice": 30.00
+			},
+			{
+			"giftId":10,
+			"giftName":"Fridge magnet",
+			"giftLink": "http://www.ebay.com/fridge_magnet",
+			"giftPrice": 5.50
+			},
+			{
+			"giftId":11,
+			"giftName":"Headphones",
+			"giftLink": "http://ww.ebay.com/headphones",
+			"giftPrice": 21.50
+			},
+			{
+			"giftId":12,
+			"giftName":"Mirror",
+			"giftLink": "http://www.ebay.com/mirror",
+			"giftPrice": 15.50
+			}
+		],
+		"friends": [
+			1,
+			3,
+			4
+		]
+	},
+	{
+		"id": 3,
+		"username": "fake",
+		"firstName": "John",
+		"lastName": "Smith",
+		"birthday": "1988-01-01T00:00:00",
+		"wishlist": [],
+		"friends": [
+			1,
+			2
+		]
+	},
+	{
+		"id": 4,
+		"username": "cat",
+		"firstName": "Catrin",
+		"lastName": "Smith",
+		"birthday": "1991-12-31T00:00:00",
+		"wishlist": [],
+		"friends": [
+			1,
+			2
+		]
+	}
+]

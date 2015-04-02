@@ -1,0 +1,54 @@
+.page-header span.glyphicon {
+	color: black !important;
+	font-size: 100% !important;
+	margin-right: 10px;
+}
+
+.panel-heading {
+	background-color: #FF6633 !important;
+}
+
+#content .glyphicon {
+	cursor: pointer;
+}
+
+.panel, .panel-heading, .panel-body {
+	border-color: #FF6633 !important;
+}
+
+.panel span.glyphicon {
+	font-size: 100% !important;
+}
+
+#content input {
+	border-radius: 10px;
+}
+
+#content button {
+	float: right;
+}
+
+#content .panel-heading {
+	color: white !important;
+}
+
+#content .panel-body span.glyphicon {
+	color: black !important;
+}
+
+#gifts .panel-body {
+	max-height: 350px;
+	overflow-y: scroll;
+}
+
+.empty {
+	text-align: center !important;
+}
+
+.empty span.glyphicon {
+	font-size: 2em !important;
+}
+
+button[name='accept'], button[name='createParty'] {
+	background-color: #FF6633 !important;
+}
